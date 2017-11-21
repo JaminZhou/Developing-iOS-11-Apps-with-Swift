@@ -9,6 +9,9 @@ CS193P 课程地址：[CS193P iPhone Application Development](http://web.stanfor
 
 [ccextractor](https://www.ccextractor.org/) 提取字幕
 
+###  其它
+之前的翻译 [Developing iOS 10 Apps with Swift](https://github.com/JaminZhou/Developing-iOS-10-Apps-with-Swift)
+
 ###  说明
 此版本字幕翻译为机翻+粗校
 
