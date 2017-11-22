@@ -237,7 +237,7 @@ class iTunesUController {
     }
 }
 
-let htmlText = iTunesUController.getStringContent(fromURL: "https://itunes.apple.com/us/course/developing-ios-11-apps-with-swift/id1309275316")
+let htmlText = iTunesUController.getStringContent(fromURL: "https://itunes.apple.com/cn/course/developing-ios-11-apps-with-swift/id1309275316")
 let resourceURLs = iTunesUController.getVideoResourceURLs(fromHTML: htmlText)
 for url in resourceURLs {
     iTunesUController.downloadFile(urlString: url)

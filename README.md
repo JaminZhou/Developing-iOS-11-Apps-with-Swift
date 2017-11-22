@@ -1,6 +1,6 @@
 # Developing iOS 11 Apps with Swift
 
-iTunes U 课程地址：[iTunes U/Developing iOS 11 Apps Swift](https://itunes.apple.com/us/course/developing-ios-11-apps-with-swift/id1309275316)
+iTunes U 课程地址：[iTunes U/Developing iOS 11 Apps Swift](https://itunes.apple.com/cn/course/developing-ios-11-apps-with-swift/id1309275316)
 
 CS193P 课程地址：[CS193P iPhone Application Development](http://web.stanford.edu/class/cs193p/cgi-bin/drupal/)
 
